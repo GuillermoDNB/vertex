@@ -1,14 +1,23 @@
 [
   {
-    "fecha": "2026-09-20",
-    "titulo": "Panel de stock para pyme textil",
-    "descripcion": "Prototipo de dashboard con alertas de stock mínimo y reposición sugerida automáticamente.",
-    "imagen": "assets/img/proyectos/ejemplo-dashboard.webp"
+    "orden": 1,
+    "fecha": "2026-09-28",
+    "titulo": "Vertex News",
+    "descripcion": "Próximamente",
+    "imagen": "assets/img/proyectos/news_nexo_1.png"
   },
   {
-    "fecha": "2026-09-05",
-    "titulo": "Primer boceto de la app para pymes",
-    "descripcion": "Pantalla inicial: carga rápida de pedidos y seguimiento de entregas del día.",
-    "imagen": "assets/img/proyectos/ejemplo-app.webp"
+    "orden": 2,
+    "fecha": "2026-09-28",
+    "titulo": "Vertex News",
+    "descripcion": "App para Control de Wharehouse.",
+    "imagen": "assets/img/proyectos/news_nexo_2.png"
+  },
+    {
+    "orden": 3,
+    "fecha": "2026-09-28",
+    "titulo": "Vertex News",
+    "descripcion": "App para Control de Wharehouse.",
+    "imagen": "assets/img/proyectos/news_nexo_3.png"
   }
 ]
