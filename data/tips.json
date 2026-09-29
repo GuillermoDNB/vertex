@@ -1,18 +1,65 @@
 [
   {
-    "fecha": "2026-09-25",
-    "etiqueta": "Tip",
-    "titulo": "Medí el costo por entrega, no solo el costo total",
-    "imagen": "assets/img/tips/ejemplo-tip-1.webp",
-    "enlace": "https://www.instagram.com/vertex.data.factory/",
-    "textoEnlace": "Ver en Instagram"
+    "orden": 1,
+    "fecha": "2026-09-28",
+    "titulo": "Vertex propuestas",
+    "descripcion": "Centralización ¿Si o No?",
+    "imagen": "assets/img/tips/tips_cen_1.png"
   },
   {
-    "fecha": "2026-09-18",
-    "etiqueta": "Idea",
-    "titulo": "Una planilla ordenada vale más que diez chats",
-    "imagen": "assets/img/tips/ejemplo-tip-2.webp",
-    "enlace": "https://www.instagram.com/vertex.data.factory/",
-    "textoEnlace": "Ver en Instagram"
-  }
+    "orden": 2,
+    "fecha": "2026-09-28",
+    "titulo": "Vertex propuestas",
+    "descripcion": "Centralización ¿Si o No?",
+    "imagen": "assets/img/tips/tips_cen_2.png"
+  },
+    {
+    "orden": 3,
+    "fecha": "2026-09-28",
+    "titulo": "Vertex propuestas",
+    "descripcion": "Centralización ¿Si o No?",
+    "imagen": "assets/img/tips/tips_cen_3.png"
+  },
+    {
+    "orden": 4,
+    "fecha": "2026-09-28",
+    "titulo": "Vertex propuestas",
+    "descripcion": "Centralización ¿Si o No?",
+    "imagen": "assets/img/tips/tips_cen_4.png"
+  },
+    {
+    "orden": 5,
+    "fecha": "2026-09-28",
+    "titulo": "Vertex propuestas",
+    "descripcion": "Centralización ¿Si o No?",
+    "imagen": "assets/img/tips/tips_cen_5.png"
+  },
+    {
+    "orden": 6,
+    "fecha": "2026-09-28",
+    "titulo": "Vertex propuestas",
+    "descripcion": "Centralización ¿Si o No?",
+    "imagen": "assets/img/tips/tips_cen_6.png"
+  },
+    {
+    "orden": 7,
+    "fecha": "2026-09-28",
+    "titulo": "Vertex propuestas",
+    "descripcion": "Centralización ¿Si o No?",
+    "imagen": "assets/img/tips/tips_cen_7.png"
+  },
+    {
+    "orden": 8,
+    "fecha": "2026-09-28",
+    "titulo": "Vertex propuestas",
+    "descripcion": "Centralización ¿Si o No?",
+    "imagen": "assets/img/tips/tips_cen_8.png"
+  },
+    {
+    "orden": 9,
+    "fecha": "2026-09-28",
+    "titulo": "Vertex propuestas",
+    "descripcion": "Centralización ¿Si o No?",
+    "imagen": "assets/img/tips/tips_cen_9.png"
+  },
 ]
