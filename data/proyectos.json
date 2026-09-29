@@ -1,0 +1,14 @@
+[
+  {
+    "fecha": "2026-09-20",
+    "titulo": "Panel de stock para pyme textil",
+    "descripcion": "Prototipo de dashboard con alertas de stock mínimo y reposición sugerida automáticamente.",
+    "imagen": "assets/img/proyectos/ejemplo-dashboard.webp"
+  },
+  {
+    "fecha": "2026-09-05",
+    "titulo": "Primer boceto de la app para pymes",
+    "descripcion": "Pantalla inicial: carga rápida de pedidos y seguimiento de entregas del día.",
+    "imagen": "assets/img/proyectos/ejemplo-app.webp"
+  }
+]

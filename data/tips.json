@@ -1,0 +1,18 @@
+[
+  {
+    "fecha": "2026-09-25",
+    "etiqueta": "Tip",
+    "titulo": "Medí el costo por entrega, no solo el costo total",
+    "imagen": "assets/img/tips/ejemplo-tip-1.webp",
+    "enlace": "https://www.instagram.com/vertex.data.factory/",
+    "textoEnlace": "Ver en Instagram"
+  },
+  {
+    "fecha": "2026-09-18",
+    "etiqueta": "Idea",
+    "titulo": "Una planilla ordenada vale más que diez chats",
+    "imagen": "assets/img/tips/ejemplo-tip-2.webp",
+    "enlace": "https://www.instagram.com/vertex.data.factory/",
+    "textoEnlace": "Ver en Instagram"
+  }
+]
